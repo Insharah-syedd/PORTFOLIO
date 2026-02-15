@@ -2,6 +2,9 @@
 ## Welcome to my creative corner on GitHub! 🚀
 <img width="1903" height="947" alt="Screenshot 2026-01-29 200404" src="https://github.com/user-attachments/assets/3f529403-211e-4e89-9079-94ead9705f0f" />
 
+## LIVE DEMO
+ https://insharah-syedd.github.io/PORTFOLIO/
+
 
 I built this portfolio to show my journey as a Frontend Developer & Web Designer. It’s not just about code; it’s about creating digital experiences that feel smooth and look beautiful.
 
