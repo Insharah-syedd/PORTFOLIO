@@ -44,6 +44,6 @@ script.js - The brain behind the animations and form logic.
 ## ☕ Let’s Connect!
 I’m always up for a chat about design, tech, or new opportunities.
 
-LinkedIn: [Insert your link here]
+LinkedIn: www.linkedin.com/in/insharah-syed
 
 GitHub: @Insharah-syedd
